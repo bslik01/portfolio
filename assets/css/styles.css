@@ -258,7 +258,7 @@ img {
 }
 
 .home__img {
-  width: 220px;
+  width: 300px;
   justify-self: center;
   mask-image: linear-gradient(to bottom,
               hsla(var(--hue), 40%, 16%) 60%,
@@ -755,7 +755,7 @@ img {
     gap: 3rem 16rem;
   }
   .home__img {
-    width: 350px;
+    width: 430px;
   }
   .home__name {
     margin-bottom: 1.5rem;
